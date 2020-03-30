@@ -1,3 +1,4 @@
+
 public class Hero {
 
     // attributs
@@ -27,4 +28,8 @@ public class Hero {
     public void setAge(int age) {
         this.age = age;
     }
+
+
+
+
 }
